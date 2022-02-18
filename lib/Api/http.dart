@@ -45,7 +45,7 @@ class Apis {
   }
 
   Future<List> fetchNew() async {
-    var key = "c33be129af5564293f1bdae9bf9eb82e";
+    var key = "Your NewsApi Key!!!";
     String url =
         'https://newsapi.org/v2/top-headlines?country=in&category=health&pageSize=100&apiKey=2c5c87ed1d9f4633bd35459e8c501990';
 
